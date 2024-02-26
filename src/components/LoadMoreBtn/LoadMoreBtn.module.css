@@ -1,0 +1,12 @@
+.loadMoreBtn {
+    border: none;
+    border-radius: 8px;
+    background-color: gray;
+    padding: 10px 10px;
+  }
+  .btnContainer {
+    display: flex;
+    justify-content: center;
+  
+    margin-bottom: 10px;
+  }
