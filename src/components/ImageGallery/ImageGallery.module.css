@@ -1,0 +1,16 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    
+    margin-bottom: 10px;
+  }
+  .galleryItem {
+    scale: 1;
+    transition: scale 250ms ease-in-out;
+  }
+  .galleryItem:hover {
+    scale: 1.03;
+  }
