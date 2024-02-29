@@ -1,0 +1,35 @@
+.toast {
+    background-color: brown;
+  }
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+  
+    margin-bottom: 20px;
+  }
+  /* .form {
+    margin: 0 auto;
+  } */
+  .searchField {
+    border: none;
+    outline: none;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 15px;
+  }
+  .searchField::placeholder {
+    font-size: 15px;
+  }
+  .label {
+    position: relative;
+  }
+  .searchBtn {
+    position: absolute;
+    top: 3px;
+    right: 5px;
+    outline: none;
+    border: none;
+    background-color: transparent;
+  }
