@@ -1,0 +1,12 @@
+.cardImg {
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    cursor: pointer;
+  }
+  .cardInfo {
+    background-color: grey;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding-left: 10px;
+    font-weight: 600;
+  }
