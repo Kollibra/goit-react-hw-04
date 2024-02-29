@@ -7,7 +7,7 @@ ReactDOM.createRoot(document.getElementById('root')).render()
 
 
 
-function App() {
+const App = () => {
   
   return (
     <>
